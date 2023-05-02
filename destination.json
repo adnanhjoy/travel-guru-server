@@ -1,0 +1,26 @@
+[
+    {
+        "id" : "defsewr1",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://i.ibb.co/PZDrCj9/Rectangle-28.png",
+        "details": "Wif Air conditioning Kitchen Wif Air conditioning Kitchen",
+        "price": 350,
+        "rating": 4.5
+    },
+    {
+        "id" : "defsewr2",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://i.ibb.co/GcC6Qmt/Rectangle-27.png",
+        "details": "Wif Air conditioning Kitchen Wif Air conditioning Kitchen",
+        "price": 450,
+        "rating": 4.5
+    },
+    {
+        "id" : "defsewr3",
+        "title": "Light bright airy stylish apt & safe peaceful stay",
+        "img": "https://i.ibb.co/zSZPsF5/Rectangle-26.png",
+        "details": "Wif Air conditioning Kitchen Wif Air conditioning Kitchen",
+        "price": 500,
+        "rating": 4.5
+    }
+]
